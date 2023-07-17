@@ -1,0 +1,42 @@
+<aside>
+  <nav class="sidebar">
+    <header>
+      <li>
+        <div href="{{ .Site.BaseURL }}">
+          <img
+            data-src="/icons/favicon-32x32.png"
+            class="inverted "
+            width="40"
+            src="/icons/favicon-32x32.png"
+            data-loaded="true"
+          />
+        </div>
+        <span class="taxonomy"><strong>{{- .Site.Title }}</strong></span>
+      </li>
+    </header>
+    <ul class="nav">
+      {{ range .Site.Data.webstack }}
+        <li class="navItem">
+          <a href="#{{ .taxonomy }}"
+            ><span
+              class="{{- if .icon -}}
+                {{- .icon -}}
+              {{- else -}}
+                linecons-tag
+              {{- end }} icon"
+            ></span
+            ><span class="taxonomy">{{ .taxonomy }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+    <footer class="top">
+      <li class="">
+        <a href="#top"
+          ><span class="linecons-paper-plane icon"></span
+          ><span class="taxonomy">Top</span></a
+        >
+      </li>
+    </footer>
+  </nav>
+</aside>

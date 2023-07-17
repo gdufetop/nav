@@ -1,0 +1,42 @@
+{
+	"id": "www.gdufe.top",
+	"version": "v2023",
+	"background_color": "#3e8b94",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/icons/favicon-16x16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "/icons/favicon-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"sizes": "192x192",
+			"src": "/icons/android-chrome-192x192.png",
+			"type": "image/png"
+		},
+		{
+			"sizes": "512x512",
+			"src": "/icons/android-chrome-512x512.png",
+			"type": "image/png"
+		}
+	],
+	"name": "湾区一流财经大学",
+	"short_name": "gdufe.top",
+	"theme_color": "#3e8b94",
+	"lang": "zh-CN",
+	"description": "gdufe is No.1",
+	"start_url": "/",
+	"scope": "/",
+	"url": "https://www.gdufe.top/",
+	"related_applications": [
+		{
+			"platform": "web",
+			"url": "https://www.gdufe.top/"
+		}
+	]
+}

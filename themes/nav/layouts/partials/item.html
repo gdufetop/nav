@@ -1,0 +1,24 @@
+<div
+  class="xe-comment-entry outline"
+  onclick="window.open('{{ .url }}', '_blank')"
+>
+  {{ if .logo }}
+    <span class="xe-user-img">
+      <img
+        data-src="{{ .logo }}"
+        class="img-circle"
+        width="40"
+        src="{{ .logo }}"
+        data-loaded="true"
+      />
+    </span>
+  {{ end }}
+
+
+  <div class="xe-comment">
+    <a class="xe-user-name overflowClip_1">
+      {{ .title }}
+    </a>
+    <p class="overflowClip_2">{{ .description }}</p>
+  </div>
+</div>

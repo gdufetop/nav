@@ -1,0 +1,37 @@
+<div class="content">
+  {{ range .Site.Data.webstack }}
+    <article id="{{ .taxonomy }}">
+      <details open>
+        <summary>
+          <span
+            class="{{- if .icon -}}
+              {{- .icon -}}
+            {{- else -}}
+              linecons-tag
+            {{- end }} icon"
+          ></span
+          ><strong>{{ .taxonomy }}</strong>
+        </summary>
+        {{ if .list }}
+          {{ range .list }}
+            <section id="{{ .term }}">
+              <h6>{{ .term }}</h6>
+              <div class="block">
+                {{ range .links }}
+                  {{- partial "item.html" . -}}
+                {{ end }}
+              </div>
+            </section>
+          {{ end }}
+        {{ end }}
+        {{ if .links }}
+          <div class="block">
+            {{ range .links }}
+              {{- partial "item.html" . -}}
+            {{ end }}
+          </div>
+        {{ end }}
+      </details>
+    </article>
+  {{ end }}
+</div>

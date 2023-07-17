@@ -1,0 +1,264 @@
+- taxonomy: GDUFE.TOP
+  icon: linecons-star
+  links:
+    - title: 合成大广财
+      url: https://dgc.gdufe.top/
+      logo: "logos/dgc.jpg"
+      description: https://dgc.gdufe.top/
+    - title: 国庆头像生成器
+      url: https://www.gdufe.top/nation
+      description: https://gdufe.top/nation
+
+- taxonomy: 常用系统
+  icon: linecons-desktop
+  links:
+    - title: 校园网认证
+      url: http://100.64.13.17/
+      description: http://100.64.13.17/
+
+    - title: VPN登陆
+      url: https://vpn.gdufe.edu.cn/
+      description: https://vpn.gdufe.edu.cn/
+
+    - title: 信息门户(旧)
+      url: http://my.gdufe.edu.cn/
+      description: http://my.gdufe.edu.cn/
+
+    - title: 融合门户(新)
+      url: http://imy.gdufe.edu.cn
+      description: http://imy.gdufe.edu.cn
+
+    - title: 办事大厅
+      url: http://ehall.gdufe.edu.cn
+      description: http://ehall.gdufe.edu.cn
+
+    - title: 教务系统
+      url: http://jwxt.gdufe.edu.cn/jsxsd/
+      description: http://jwxt.gdufe.edu.cn/jsxsd/
+
+    - title: 缴费系统
+      url: http://finmanage.gdufe.edu.cn:8804/
+      description: http://finmanage.gdufe.edu.cn:8804/
+
+    - title: 第二课堂
+      url: http://2ketang.gdufe.edu.cn/
+      description: http://2ketang.gdufe.edu.cn/
+
+    - title: 图书馆检索系统
+      url: http://opac.library.gdufe.edu.cn/
+      description: http://opac.library.gdufe.edu.cn/
+
+    - title: 一卡通系统
+      url: http://card.gdufe.edu.cn/
+      description: http://card.gdufe.edu.cn/
+
+    - title: 校园网自助系统
+      url: http://100.64.1.202:8080/Self
+      description: http://100.64.1.202:8080/Self
+
+    - title: 素质拓展系统
+      url: http://sztz.gdufe.edu.cn/
+      description: http://sztz.gdufe.edu.cn/
+
+    - title: 宿舍管理系统
+      url: http://ssgl.gdufe.edu.cn/
+      description: http://ssgl.gdufe.edu.cn/
+
+    - title: 学工管理系统
+      url: http://xg.gdufe.edu.cn
+      description: http://xg.gdufe.edu.cn
+
+    - title: 学生工作平台
+      url: http://xgxt.gdufe.edu.cn/
+      description: http://xgxt.gdufe.edu.cn/
+
+    - title: 财务管理系统
+      url: http://finmanage.gdufe.edu.cn:8800
+      description: http://finmanage.gdufe.edu.cn:8800
+
+    - title: Blackboard毕博
+      url: https://bb.gdufe.edu.cn
+      description: https://bb.gdufe.edu.cn/
+
+    - title: 网上党校
+      url: http://s.enaea.edu.cn/h/gdufedx/
+      description: http://s.enaea.edu.cn/h/gdufedx/
+
+- taxonomy: 官方网站
+  icon: linecons-globe
+  links:
+    - title: 广财大官网
+      url: https://www.gdufe.edu.cn/
+      description: https://www.gdufe.edu.cn/
+
+    - title: 佛山校区官网
+      url: https://ss.gdufe.edu.cn/
+      description: https://ss.gdufe.edu.cn/
+
+    - title: 校团委
+      url: http://youth.gdufe.edu.cn/
+      description: http://youth.gdufe.edu.cn/
+
+    - title: 学院官网
+      url: https://www.gdufe.edu.cn/3227/list.htm
+      description: https://www.gdufe.edu.cn/3227/list.htm
+
+    - title: 教务处
+      url: http://jwc.gdufe.edu.cn/
+      description: http://jwc.gdufe.edu.cn/
+
+    - title: 图书馆
+      url: http://lib.gdufe.edu.cn/
+      description: http://lib.gdufe.edu.cn/
+
+    - title: 门诊部
+      url: http://mzb.gdufe.edu.cn/
+      description: http://mzb.gdufe.edu.cn/
+
+    - title: 信息办
+      url: https://xxb.gdufe.edu.cn/
+      description: https://xxb.gdufe.edu.cn/
+
+    - title: 学生工作部
+      url: http://xgb.gdufe.edu.cn/
+      description: http://xgb.gdufe.edu.cn/
+
+    - title: 就业指导中心
+      url: http://grad.gdufe.edu.cn/
+      description: http://grad.gdufe.edu.cn/
+
+    - title: 财务处
+      url: http://cw.gdufe.edu.cn/
+      description: http://cw.gdufe.edu.cn/
+
+    - title: 后勤处
+      url: http://hqc.gdufe.edu.cn/
+      description: http://hqc.gdufe.edu.cn/
+
+    - title: 保卫部
+      url: http://bw.gdufe.edu.cn/
+      description: http://bw.gdufe.edu.cn/
+
+    - title: 学生科研平台
+      url: http://172.19.13.169:801/index
+      description: http://172.19.13.169:801/index
+
+    - title: 期刊中心
+      url: http://song.cbpt.cnki.net
+      description: http://song.cbpt.cnki.net
+
+    - title: 招生处
+      url: http://zkc.gdufe.edu.cn/
+      description: http://zkc.gdufe.edu.cn/
+
+    - title: 研究生处
+      url: http://yjsc.gdufe.edu.cn/
+      description: http://yjsc.gdufe.edu.cn/
+
+- taxonomy: 教程文档
+  icon:
+  links:
+
+- taxonomy: 学无止境
+  icon: linecons-graduation-cap
+  links:
+    - title: 智慧树 / 知到
+      logo: "/logos/zhihui.ico"
+      url: https://www.zhihuishu.com/
+      description: https://www.zhihuishu.com/
+
+    - title: 超星 / 学习通
+      logo: "/logos/chaoxing.ico"
+      url: http://www.chaoxing.com
+      description: http://www.chaoxing.com
+
+    - title: 随行课堂 / We Learn
+      logo: "/logos/we.ico"
+      url: https://course.sflep.com/
+      description: https://course.sflep.com/
+
+    - title: 清华社
+      logo: "/logos/qinghua.ico"
+      url: https://www.tsinghuaelt.com/
+      description: https://www.tsinghuaelt.com/
+
+    - title: 学堂在线
+      logo: "/logos/xtzx.ico"
+      url: https://www.xuetangx.com/
+      description: https://www.xuetangx.com/
+
+    - title: 好策
+      logo: "/logos/haoce.ico"
+      url: https://www.haoce.com/
+      description: https://www.haoce.com/
+
+    - title: 批改网
+      logo: "/logos/pigai.ico"
+      url: http://pigai.org/
+      description: http://pigai.org/
+
+    - title: 5Y学习平台
+      logo: "/logos/5y.ico"
+      url: http://5y.gdoa.net:8580/
+      description: http://5y.gdoa.net:8580/
+
+- taxonomy: 考试
+  icon: linecons-pencil
+  links:
+    - title: 四六级 (CET)
+      url: http://cet.neea.edu.cn/
+      description: http://cet.neea.edu.cn/
+
+    - title: 计算机等级 (NCRE)
+      url: http://ncre.neea.edu.cn/
+      description: http://ncre.neea.edu.cn/
+
+    - title: 教师资格证 (NTCE)
+      url: http://ntce.neea.edu.cn/
+      description: http://ntce.neea.edu.cn/
+
+    - title: 普通话水平测试
+      url: #
+      description: #
+
+    - title: 研究生
+      url: https://yz.chsi.com.cn/
+      description: https://yz.chsi.com.cn/
+
+- taxonomy: 官方媒体
+  icon: linecons-sound
+  links:
+    - title: 广东财经大学新闻网
+      url: https://news.gdufe.edu.cn/
+      logo: "/logos/gdcjdx.ico"
+      description: https://news.gdufe.edu.cn/
+
+    - title: 广东财经大学微博
+      url: https://weibo.com/gdcjdx
+      logo: "/logos/weibo.ico"
+      description: https://weibo.com/gdcjdx
+
+    - title: 广东财经大学 Bilibili
+      url: https://space.bilibili.com/630291266
+      logo: "/logos/bili.ico"
+      description: https://space.bilibili.com/630291266
+
+    - title: 广东财经大学抖音
+      url: https://www.douyin.com/user/MS4wLjABAAAAowYn-wXNwhqkiaCYH9WWtqVWD1B39qkVzsdC1PsQioCbgykDfOmJSKqFY8ojegWY"
+      logo: "/logos/douyin.ico"
+      description: https://www.douyin.com/user/MS4wLjABAAAAowYn-wXNwhqkiaCYH9WWtqVWD1B39qkVzsdC1PsQioCbgykDfOmJSKqFY8ojegWY
+
+    - title: 广东财经大学微信
+      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mzg3MjYwOQ=="
+      logo: "/logos/wechat.ico"
+      description: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mzg3MjYwOQ==
+
+    - title: 广东财经大学佛山校区微信
+      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyOTk3ODY0Nw=="
+      logo: "logos/wechat.ico"
+      description: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyOTk3ODY0Nw==
+
+    - title: 广东财经大学企业微信
+      url:
+      logo: "/logos/qiye.ico"
+      description:

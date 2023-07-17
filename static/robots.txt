@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /nation/
+Disallow: /css/
+Disallow: /js/
+Sitemap: https://gdufe.top/sitemap.xml
