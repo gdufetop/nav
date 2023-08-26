@@ -20,11 +20,7 @@
       url: https://vpn.gdufe.edu.cn/
       description: https://vpn.gdufe.edu.cn/
 
-    - title: 信息门户(旧)
-      url: http://my.gdufe.edu.cn/
-      description: http://my.gdufe.edu.cn/
-
-    - title: 融合门户(新)
+    - title: 融合门户
       url: http://imy.gdufe.edu.cn
       description: http://imy.gdufe.edu.cn
 
@@ -56,17 +52,12 @@
       url: http://100.64.1.202:8080/Self
       description: http://100.64.1.202:8080/Self
 
-    - title: 素质拓展系统
-      url: http://sztz.gdufe.edu.cn/
-      description: http://sztz.gdufe.edu.cn/
+
 
     - title: 宿舍管理系统
       url: http://ssgl.gdufe.edu.cn/
       description: http://ssgl.gdufe.edu.cn/
 
-    - title: 学工管理系统
-      url: http://xg.gdufe.edu.cn
-      description: http://xg.gdufe.edu.cn
 
     - title: 学生工作平台
       url: http://xgxt.gdufe.edu.cn/
@@ -219,7 +210,7 @@
 
     - title: 普通话水平测试
       url: #
-      description: #
+      description: 微信公众号 广财大普通话测试
 
     - title: 研究生
       url: https://yz.chsi.com.cn/
