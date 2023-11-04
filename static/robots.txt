@@ -3,4 +3,4 @@ Allow: /
 Allow: /nation/
 Disallow: /css/
 Disallow: /js/
-Sitemap: https://gdufe.top/sitemap.xml
+Sitemap: https://www.gdufe.top/sitemap.xml
