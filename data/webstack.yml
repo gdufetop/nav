@@ -32,9 +32,9 @@
       url: http://jwxt.gdufe.edu.cn/jsxsd/
       description: http://jwxt.gdufe.edu.cn/jsxsd/
 
-    - title: 缴费系统
-      url: http://finmanage.gdufe.edu.cn:8804/
-      description: http://finmanage.gdufe.edu.cn:8804/
+    - title: 财务收费系统
+      url: https://cwsfxt.gdufe.edu.cn/
+      description: https://cwsfxt.gdufe.edu.cn/
 
     - title: 第二课堂
       url: http://2ketang.gdufe.edu.cn/
@@ -52,12 +52,9 @@
       url: http://100.64.1.202:8080/Self
       description: http://100.64.1.202:8080/Self
 
-
-
     - title: 宿舍管理系统
       url: http://ssgl.gdufe.edu.cn/
       description: http://ssgl.gdufe.edu.cn/
-
 
     - title: 学生工作平台
       url: http://xgxt.gdufe.edu.cn/
