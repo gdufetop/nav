@@ -155,42 +155,42 @@
   icon: linecons-graduation-cap
   links:
     - title: 智慧树 / 知到
-      logo: "/logos/zhihui.ico"
+      logo: "logos/zhihui.ico"
       url: https://www.zhihuishu.com/
       description: https://www.zhihuishu.com/
 
     - title: 超星 / 学习通
-      logo: "/logos/chaoxing.ico"
+      logo: "logos/chaoxing.ico"
       url: http://www.chaoxing.com
       description: http://www.chaoxing.com
 
     - title: 随行课堂 / We Learn
-      logo: "/logos/we.ico"
+      logo: "logos/we.ico"
       url: https://course.sflep.com/
       description: https://course.sflep.com/
 
     - title: 清华社
-      logo: "/logos/qinghua.ico"
+      logo: "logos/qinghua.ico"
       url: https://www.tsinghuaelt.com/
       description: https://www.tsinghuaelt.com/
 
     - title: 学堂在线
-      logo: "/logos/xtzx.ico"
+      logo: "logos/xtzx.ico"
       url: https://www.xuetangx.com/
       description: https://www.xuetangx.com/
 
     - title: 好策
-      logo: "/logos/haoce.ico"
+      logo: "logos/haoce.ico"
       url: https://www.haoce.com/
       description: https://www.haoce.com/
 
     - title: 批改网
-      logo: "/logos/pigai.ico"
+      logo: "logos/pigai.ico"
       url: http://pigai.org/
       description: http://pigai.org/
 
     - title: 5Y学习平台
-      logo: "/logos/5y.ico"
+      logo: "logos/5y.ico"
       url: http://5y.gdoa.net:8580/
       description: http://5y.gdoa.net:8580/
 
@@ -210,7 +210,7 @@
       description: http://ntce.neea.edu.cn/
 
     - title: 普通话水平测试
-      url: #
+      url: "#"
       description: 微信公众号 广财大普通话测试
 
     - title: 研究生
@@ -222,35 +222,35 @@
   links:
     - title: 广东财经大学新闻网
       url: https://news.gdufe.edu.cn/
-      logo: "/logos/gdcjdx.ico"
+      logo: "logos/gdcjdx.ico"
       description: https://news.gdufe.edu.cn/
 
     - title: 广东财经大学微博
       url: https://weibo.com/gdcjdx
-      logo: "/logos/weibo.ico"
+      logo: "logos/weibo.ico"
       description: https://weibo.com/gdcjdx
 
     - title: 广东财经大学 Bilibili
       url: https://space.bilibili.com/630291266
-      logo: "/logos/bili.ico"
+      logo: "logos/bili.ico"
       description: https://space.bilibili.com/630291266
 
     - title: 广东财经大学抖音
-      url: https://www.douyin.com/user/MS4wLjABAAAAowYn-wXNwhqkiaCYH9WWtqVWD1B39qkVzsdC1PsQioCbgykDfOmJSKqFY8ojegWY"
-      logo: "/logos/douyin.ico"
+      url: https://www.douyin.com/user/MS4wLjABAAAAowYn-wXNwhqkiaCYH9WWtqVWD1B39qkVzsdC1PsQioCbgykDfOmJSKqFY8ojegWY
+      logo: "logos/douyin.ico"
       description: https://www.douyin.com/user/MS4wLjABAAAAowYn-wXNwhqkiaCYH9WWtqVWD1B39qkVzsdC1PsQioCbgykDfOmJSKqFY8ojegWY
 
     - title: 广东财经大学微信
-      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mzg3MjYwOQ=="
-      logo: "/logos/wechat.ico"
+      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mzg3MjYwOQ==
+      logo: "logos/wechat.ico"
       description: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA5Mzg3MjYwOQ==
 
     - title: 广东财经大学佛山校区微信
-      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyOTk3ODY0Nw=="
+      url: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyOTk3ODY0Nw==
       logo: "logos/wechat.ico"
       description: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyOTk3ODY0Nw==
 
     - title: 广东财经大学企业微信
-      url:
-      logo: "/logos/qiye.ico"
+      url: "#"
+      logo: "logos/qiye.ico"
       description:
