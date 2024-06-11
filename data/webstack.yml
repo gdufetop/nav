@@ -8,6 +8,10 @@
     - title: 国庆头像生成器
       url: https://www.gdufe.top/nation
       description: https://gdufe.top/nation
+    - title: gdufetop
+      url: https://github.com/gdufetop/
+      logo: "logos/gdufetop.png"
+      description: Github https://github.com/gdufetop/
 
 - taxonomy: 常用系统
   icon: linecons-desktop
